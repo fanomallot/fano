@@ -1,5 +1,5 @@
-# project5-shopping-bag-finished
-
+# shopping-bag
+ use node under v17
 ## Project setup
 ```
 yarn install
